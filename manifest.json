@@ -1,0 +1,22 @@
+{
+  "short_name": "Example",
+  "name": "Example app",
+  "icons": [
+    {
+      "src": "images/5.jpg",
+      "type": "image/png",
+      "sizes": "2876x1788"
+    },
+    {
+      "src": "images/maskable.png",
+      "type": "image/png",
+      "sizes": "432x432",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#CF962D",
+  "background_color": "#f4f4f4",
+  "orientation": "portrait-primary"
+}

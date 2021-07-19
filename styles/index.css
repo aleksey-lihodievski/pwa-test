@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+section, header, footer {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    max-width: 1200px;
+    width: 1200px;
+}
+
+section {
+    background: url(../images/5.jpg) top center / cover;
+    min-height: 100vh;
+}
